@@ -108,5 +108,3 @@ Special thanks to the following:
 - **MySQL** for database management.
 
 ---
-
-For any questions or issues, feel free to contact **[your email]**.
